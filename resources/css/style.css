@@ -1,20 +1,39 @@
 body {
-  font-family: Helvetica;
+    font-family: Helvetica;
+    text-align: center;
 }
 
 h1 {
   font-size: 70px;
   font-weight: bold;
   text-align: center;
-  color: white;
+  color: purple;
 }
 
 #mainheader {
-  background-color: blue;
-  text-align: center;
+    text-align: center;
 }
 
 a {
     font-size: 18px;
+    color: white;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 14px;
+}
+
+#subheader.h2 {
+    font-size: 23px;
     color: white;
 }
