@@ -29,7 +29,7 @@ h3 {
     font-weight: bold;
 }
 
-p {
+body.p {
     font-size: 14px;
 }
 
@@ -37,3 +37,11 @@ p {
     font-size: 23px;
     color: white;
 }
+
+footer {
+    text-align: left;
+    background-color: dimgray;
+    color: white;
+    font-size: 11px;
+}
+
