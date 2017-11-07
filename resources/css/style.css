@@ -1,3 +1,20 @@
 body {
   font-family: Helvetica;
 }
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+#mainheader {
+  background-color: blue;
+  text-align: center;
+}
+
+a {
+    font-size: 18px;
+    color: white;
+}
